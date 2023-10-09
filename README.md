@@ -2,7 +2,7 @@
 
 ## Summary
 
-The code used to acquire the data and generate the resulting sonifications are presented in the `WISE_Sonification_v001.ipynb` Jupyter Notebook. 
+The code used to acquire the data and generate the resulting sonifications are presented in the `WISE_Sonification_v001.ipynb` Jupyter Notebook. Old defunct code is in the `old_files` folder.
 
 Select WISE FITs images are downloaded and kept in the `wise_images` folder, identified by their J2000 coordinates and wavelength.
 
